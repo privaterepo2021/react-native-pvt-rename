@@ -1,5 +1,5 @@
 {
-  "name": "react-native-rename",
+  "name": "react-native-pvt-rename",
   "version": "2.9.0",
   "description": "Rename react-native app with just one command",
   "main": "lib/index.js",
